@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: toku-sa-n/install-zola@v1
+      - uses: toku-sa-n/install-zola
